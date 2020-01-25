@@ -1,0 +1,16 @@
+{
+  "name": "serverbomberman",
+  "version": "1.0.0",
+  "description": "servidor para rodar o jogo bomberman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Silva",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.1",
+    "shortid": "^2.2.14",
+    "socket.io": "^2.2.0"
+  }
+}
